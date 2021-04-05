@@ -1,7 +1,7 @@
 # weather_app
 Learning React Native by Building a  Weather App
 
-<img width="80%" src="https://user-images.githubusercontent.com/62279741/113559861-0f5f3000-963d-11eb-8127-daf207978801.mp4"/>
+<img width="80%" src="https://user-images.githubusercontent.com/62279741/113560119-7381f400-963d-11eb-997e-a0db64b91238.gif"/>
 
 
 
